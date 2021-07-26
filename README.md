@@ -1,6 +1,12 @@
 # dcgan-fake-faces
 
-Deep convolutional generative adversarial networks (DCGANs) for generating fake faces with Tensorflow and Keras
+Deep convolutional generative adversarial networks (DCGANs) for generating fake faces with Tensorflow and Keras.
+
+Note that this project is a fork of [Cool GANs and Fake Celebrities](https://github.com/DiogorPinheiro/Cool_GANs_Fake_Celebrities) that was a collaboration of the group:
+- [Diogo Pinheiro](https://github.com/DiogorPinheiro)
+- [Jakob Lindén](https://github.com/jakobGTO)
+- [Patrick Jonsson](https://github.com/hiver-py)
+- [Márk Antal Csizmadia](https://github.com/mark-antal-csizmadia)
 
 ## Data
 
