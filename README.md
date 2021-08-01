@@ -46,11 +46,7 @@ All the generated MNIST images are of size 28 x 28. After 50 epochs:
 
 Below are some results of generating 32 x 32 images. After 75 epochs:
 
-![alt text](assets/20210520-112504-faces/epoch_0075.png)
-
 <img src="assets/20210520-112504-faces/epoch_0075.png" alt="drawing" width="400"/>
-
-
 
 The GIFs show the evolution of the generator. The evolution of the 32 x 32 generator:
 
