@@ -48,7 +48,7 @@ Below are some results of generating 32 x 32 images. After 75 epochs:
 
 ![alt text](assets/20210520-112504-faces/epoch_0075.png)
 
-<img src="assets/20210520-112504-faces/epoch_0075.png" alt="drawing" width="500"/>
+<img src="assets/20210520-112504-faces/epoch_0075.png" alt="drawing" width="400"/>
 
 
 
