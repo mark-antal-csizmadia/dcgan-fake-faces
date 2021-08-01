@@ -1,5 +1,13 @@
 # dcgan-fake-faces
 
+<a href="https://github.com/mark-antal-csizmadia/dcgan-fake-faces/blob/main/dcgan.ipynb">
+  <img align="center" src="https://colab.research.google.com/assets/colab-badge.svg"/>
+</a>
+
+<a href="https://nbviewer.jupyter.org/github/mark-antal-csizmadia/dcgan-fake-faces/blob/main/dcgan.ipynb">
+  <img align="center" src="https://img.shields.io/badge/Jupyter-Open%20In%20nbviewer-informational?style=flat&logo=Jupyter&logoColor=F37626&color=blue" />
+</a>
+
 Deep convolutional generative adversarial networks (DCGANs) for generating fake faces with Tensorflow and Keras.
 
 Final project for DD2424 Deep Learning in Data Science at KTH Royal Institute of Technology, Stockholm.
