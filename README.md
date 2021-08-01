@@ -24,7 +24,7 @@ The code is in ```dcgan.ipynb```.
 
 Our experiments and results are discussed in the [report](assets/report_and_presentation/report.pdf) and the [presentation](assets/report_and_presentation/Presentation.pdf)
 
-The models are evaluated based on the generator and the discrimnator losses, and the Fréchet Inception Distance (FID) metric proposed in [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium
+The models are evaluated based on the generator and the discriminator losses, and the Fréchet Inception Distance (FID) metric proposed in [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium
 ](https://arxiv.org/abs/1706.08500).
 
 Due to the limit of accessibility to adequate hardware to training the DCGAN on the original faces dataset dimensions of 218 x 178, the models are trained on 32 x 32 and 64 x 64 images.
@@ -54,13 +54,10 @@ The GIFs show the evolution of the generator. The evolution of the 32 x 32 gener
 
 ![alt text](assets/gifs/32.gif)
 
-<img src="assets/gifs/32.gif" alt="32.gif" width="300"/>
-
 The evolution of the 64 x 64 generator:
 
 ![alt text](assets/gifs/64.gif)
 
-<img src="assets/gifs/64.gif" alt="64.gif" width="300"/>
 
 ## Logs
 
@@ -68,7 +65,7 @@ Training logs are located at ```logs``` and can be visualized with Tensorboard.
 
 Some examples are shown below for a model trained on the 32 x 32 faces dataset.
 
-### Discimator Loss
+### Discriminator Loss
 
 <img src="log_viz/disc_loss_metric.svg" alt="drawing" width="300"/>
 
