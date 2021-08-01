@@ -1,7 +1,7 @@
 # dcgan-fake-faces
 
-<a href="https://github.com/mark-antal-csizmadia/dcgan-fake-faces/blob/main/dcgan.ipynb">
-  <img align="center" src="https://colab.research.google.com/assets/colab-badge.svg"/>
+<a href="https://colab.research.google.com/github/mark-antal-csizmadia/dcgan-fake-faces/blob/main/dcgan.ipynb">
+  <img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 <a href="https://nbviewer.jupyter.org/github/mark-antal-csizmadia/dcgan-fake-faces/blob/main/dcgan.ipynb">
